@@ -1,5 +1,4 @@
 # POS-Tagging-and-Spell-Checking
-# POS Tagging and Spell Checking
 
 ## Overview
 This project focuses on tokenization, Part-of-Speech (POS) tagging, and spell-checking for Telugu text using tools such as **Stanza** and the **Indic NLP Library**. Additionally, it provides functionality for grouping words into sentences, correcting misspellings, and re-applying POS tagging for corrected sentences.
